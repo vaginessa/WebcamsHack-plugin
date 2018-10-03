@@ -7,7 +7,7 @@ To start hacking webcams:
 
 > open site https://4it.me/
 
-> "диапазоны городов" select city and copy ip adreses
+> on 4it.me find "ip диапазоны" and select city and copy ip adreses
 
 > write this ip adreses in Kportscan programm and select port 8000
 
